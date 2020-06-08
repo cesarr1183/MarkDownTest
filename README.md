@@ -75,7 +75,7 @@ ___
 <!-- Tables -->
 |Name|Email|
 |----|-----|
-|John Doe|john,doe.@gmail.com|
+|John Doe|john.doe@gmail.com|
 |Jane Doe|jane.doe@gmail.com|
 
 <!-- Task Lists -->
